@@ -1,0 +1,35 @@
+============================================================
+TASK 1: PCA RESULTS SUMMARY
+============================================================
+
+Stations analysed:      100
+Parameters used:        pm25, pm10, no2, o3
+
+VARIANCE EXPLAINED
+  PC1: 58.42%
+  PC2: 24.77%
+  Total (PC1+PC2): 83.19%
+
+LOADINGS (signed)
+          PC1     PC2
+PM₂.₅ -0.5622  0.2679
+PM₁₀  -0.5934  0.2171
+NO₂   -0.5353 -0.1540
+O₃    -0.2127 -0.9260
+
+TOP DRIVERS OF PC1 (pollution axis):
+  PM₁₀: -0.5934
+  PM₂.₅: -0.5622
+  NO₂: -0.5353
+
+TOP DRIVERS OF PC2:
+  O₃: -0.9260
+  PM₂.₅: +0.2679
+  PM₁₀: +0.2171
+
+PC1 MEAN BY ZONE (higher = more 'industrial-like' on PC1):
+  Residential: 0.2958
+  Industrial: -0.3485
+  Mixed: -0.3750
+
+============================================================

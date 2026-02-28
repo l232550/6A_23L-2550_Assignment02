@@ -1,0 +1,48 @@
+=======================================================
+TASK 2 — TEMPORAL ANALYSIS RESULTS
+=======================================================
+Total readings        : 100,000
+Stations              : 100
+Date range            : 2025-01-01 → 2025-12-31
+Health threshold      : 35.0 µg/m³ (PM₂.₅)
+Overall violation rate: 3.64%
+
+VIOLATION RATE BY ZONE:
+  Industrial      3.06%
+  Mixed           2.10%
+  Residential     4.43%
+
+MONTHLY VIOLATION RATES:
+  Jan   0.67%
+  Feb   2.13%
+  Mar   2.92%
+  Apr   1.83%
+  May   8.11%
+  Jun   10.32%
+  Jul   8.32%
+  Aug   4.62%
+  Sep   2.76%
+  Oct   0.17%
+  Nov   0.27%
+  Dec   0.43%
+
+PEAK VIOLATION HOURS (top 5):
+  07:00   8.54 µg/m³
+  13:00   8.27 µg/m³
+  15:00   7.81 µg/m³
+  03:00   7.70 µg/m³
+  11:00   7.69 µg/m³
+
+TOP 10 MOST VIOLATING STATIONS:
+  Coyhaique II                     Residential  45.2%
+  Curicó                           Residential  29.8%
+  Puente Alto                      Mixed        29.2%
+  Talagante                        Residential  26.3%
+  Parque O'Higgins                 Residential  25.7%
+  Inpesca                          Industrial   21.7%
+  Punteras                         Residential  21.1%
+  Los Ángeles Oriente              Residential  12.7%
+  Kingston College                 Residential  12.1%
+  Cerro Merquín                    Residential  11.6%
+
+=======================================================
