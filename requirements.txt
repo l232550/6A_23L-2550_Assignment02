@@ -9,4 +9,4 @@ pyarrow
 requests
 joblib
 matplotlib
-altair==4.2.2
+altair
